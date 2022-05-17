@@ -1,4 +1,7 @@
 # Final-Project
 # Topics under consideration;
   •	Covid Booster shots
-  •	EV Charging Station 
+    o	Where is Covid Booster shot effective?
+
+  •	EV Charging Station radius
+  o	States with smallest radius
