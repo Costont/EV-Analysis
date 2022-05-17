@@ -1,5 +1,5 @@
 # Final-Project
-# Topics under consideration;
+# Topics under consideration
   •	Covid Booster shots
   
     o	Where is Covid Booster shot effective?
