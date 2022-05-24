@@ -37,4 +37,18 @@
     •	JavaScript
 
     •	etc.
+    
+ ## Needs of this project
+ 
+    •	frontend developers
+
+    •	data exploration/descriptive statistics
+
+    •	data processing/cleaning
+
+    •	statistical modeling
+
+    •	writeup/reporting
+
+
 
