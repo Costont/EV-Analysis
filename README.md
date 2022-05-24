@@ -11,14 +11,30 @@
     •	EV charge stations sales by state
 
     •	Number of EV cars by
+   
+## Methods Used
 
-#Tools:
+    •	Inferential Statistics
+
+    •	Machine Learning
+
+    •	Data Visualization
+
+    •	Predictive Modeling
+
+    •	etc.
+
+## Technologies
+
+    •	Python
+
+    •	jupyter
 
     •	Pandas
 
-    •	Matlilop
+    •	HTML
 
-    •	Tabelo
-    
-    Github 
-    
+    •	JavaScript
+
+    •	etc.
+
