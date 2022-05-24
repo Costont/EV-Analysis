@@ -36,8 +36,8 @@
 
     •	JavaScript
 
-    •	etc.
-    
+    •	Power Point
+   
  ## Needs of this project
  
     •	frontend developers
