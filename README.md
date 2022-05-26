@@ -1,9 +1,11 @@
 # EV Charge Stations
-# Overview
+
 
 ## Summary
 
   States and counties with more EV charging stations have more EV vehicles registered which can be assumed that there more EV purchases in those states and counties.
+  
+  ### Overview
   
   EV charge station infrusture is key for EV cars sells growth and EV charge station profits.
   
@@ -17,7 +19,7 @@
 
     •	Number of EV cars by
    
-## Methods Used
+### Methods Used
 
     •	Inferential Statistics
 
@@ -29,7 +31,7 @@
 
     •	etc.
 
-## Technologies
+### Technologies
 
     •	Python
 
@@ -43,7 +45,7 @@
 
     •	Power Point
    
- ## Needs of this project
+ ### Needs of this project
  
     •	frontend developers
 
@@ -56,7 +58,7 @@
     •	writeup/reporting
     
     
- ## Data Schema
+ ### Data Schema
  
  ![image](https://user-images.githubusercontent.com/96215773/170393177-88a51945-8a4e-4f2f-b436-e5ed787b315f.png)
 
