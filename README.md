@@ -60,9 +60,16 @@
     
  ### Data Schema
  
- ![image](https://user-images.githubusercontent.com/96215773/170393177-88a51945-8a4e-4f2f-b436-e5ed787b315f.png)
+  ![image](https://user-images.githubusercontent.com/96215773/170393177-88a51945-8a4e-4f2f-b436-e5ed787b315f.png)
+ 
+### Tables
 
-![image](https://user-images.githubusercontent.com/96215773/170397024-e1fc6417-d14a-4275-a98f-99023b21b41a.png)
+#### EV DMV Table
 
+  ![image](https://user-images.githubusercontent.com/96215773/170397024-e1fc6417-d14a-4275-a98f-99023b21b41a.png)
+
+#### EV Charging Stations Table
+
+  ![image](https://user-images.githubusercontent.com/96215773/170398451-6b0ba983-3c52-4d9d-b17d-e9985fdf0954.png)
 
 
