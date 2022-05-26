@@ -1,5 +1,8 @@
 # EV Charge Stations
 # Overview
+
+  States and counties with more EV charging stations have more EV vehicles registered which can be assumed that there more EV purchases in those states and counties.
+  
   EV charge station infrusture is key for EV cars sells growth and EV charge station profits.
   
     •	EV Charging Station radius
