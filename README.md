@@ -1,4 +1,4 @@
-# EV Charge Stations
+# EV Charging Stations 
 
 
 ## Summary
