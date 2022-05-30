@@ -60,8 +60,8 @@
     
 ### Data Schema
  
-  ![image](https://user-images.githubusercontent.com/96215773/170393177-88a51945-8a4e-4f2f-b436-e5ed787b315f.png)
- 
+  ![image](https://user-images.githubusercontent.com/96215773/170896938-7f493290-acdb-4bb0-9956-c2412409db0d.png)
+
 ### Tables
 
 #### EV DMV Table
