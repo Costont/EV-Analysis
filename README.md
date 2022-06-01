@@ -57,7 +57,10 @@
 
     •	writeup/reporting
     
-    
+### Machine
+  
+    -Linar regression electric vehices vs charging stations - In the works
+
 ### Data Schema
  
   ![image](https://user-images.githubusercontent.com/96215773/170896938-7f493290-acdb-4bb0-9956-c2412409db0d.png)
