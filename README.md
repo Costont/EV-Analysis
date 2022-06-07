@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/96215773/172315088-079063a1-016f-4533-812c-e861d68f24aa.png)
 
-[Click Here To See DashBaord]"(https://public.tableau.com/views/EVAnalysis_16540699720880/EVAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)"
+[Click Here To See DashBaord](https://public.tableau.com/views/EVAnalysis_16540699720880/EVAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Summary
   California’s proposed ZEV program rule puts into motion an executive order that Gov. Gavin Newsom issued in 2020. Under the plan, 35 percent of new cars and light trucks sold      must be zero-emissions starting in 2026. That will increase to 68 percent in 2030, and to 100 percent in 2035. The plan allows for 20 percent of new sales to be    plug-in hybrids.
