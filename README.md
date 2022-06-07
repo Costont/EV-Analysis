@@ -50,7 +50,10 @@
     
 ### Machine
   
-    -Linar regression electric vehices vs charging stations - In the works
+    Linar regression electric vehices vs charging stations
+    
+    ![image](https://user-images.githubusercontent.com/96215773/172474888-a59bb47f-7125-4025-ba16-5015861e9798.png)
+
 
 ### Data Schema
  
