@@ -20,11 +20,11 @@
     •	How many miles do you have to drive to a charge station?
     •	The ratio of charging stations to electric vehicles for the top 5 counties is .003 or higher.
 
-    Los Angles 
-    Santa Clara
-    Orange
-    San Diego
-    Alameda
+                1. Los Angles 
+                2. Santa Clara
+                3. Orange
+                4. San Diego
+                5. Alameda
     
     •	EV charge stations by county
     •	Number of EV cars by county
