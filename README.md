@@ -9,7 +9,6 @@
 
   Counties with more EV charging stations have more EV vehicles registered. It can be assumed that there are more EV purchases in those counties.
   
- ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
 
   
 ### Overview
@@ -19,13 +18,10 @@
     •	EV Charging Station ratios 
     •	How many miles do you have to drive to a charge station?
     •	The ratio of charging stations to electric vehicles for the top 5 counties is .003 or higher.
-
-                1. Los Angles 
-                2. Santa Clara
-                3. Orange
-                4. San Diego
-                5. Alameda
     
+ ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
+
+                   
     •	EV charge stations by county
     •	Number of EV cars by county
 
