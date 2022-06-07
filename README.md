@@ -23,8 +23,6 @@
 
 ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
 
-![image](https://user-images.githubusercontent.com/96215773/172456500-e0aa4cf2-c948-4243-9d66-82e47937004f.png)
-
 ### Methods Used
 
     •	Machine Learning
