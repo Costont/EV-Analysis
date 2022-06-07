@@ -1,8 +1,7 @@
 # EV Analysis
 
 
-![image](https://user-images.githubusercontent.com/96215773/172313242-a3b32007-1294-4636-afb6-693bc317bd6d.png)
-
+![image](https://user-images.githubusercontent.com/96215773/172315088-079063a1-016f-4533-812c-e861d68f24aa.png)
 
 
 
