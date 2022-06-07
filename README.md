@@ -68,5 +68,12 @@
 #### Alt Fuel Stations Table
 
   ![image](https://user-images.githubusercontent.com/96215773/170398451-6b0ba983-3c52-4d9d-b17d-e9985fdf0954.png)
+ 
+#### Cities Table
+  
+  ![image](https://user-images.githubusercontent.com/96215773/172483393-49ebe98d-461c-4fb5-beb6-07664eafc2de.png)
+  
+  
+
 
 
