@@ -43,7 +43,7 @@ https://public.tableau.com/views/EVAnalysis_16540699720880/Dashboard1?:language=
 
     •	Python
 
-    •	jupyter
+    •	Jupyter Notebook
 
     •	Pandas
 
@@ -52,11 +52,11 @@ https://public.tableau.com/views/EVAnalysis_16540699720880/Dashboard1?:language=
     •	JavaScript
 
     •	Power Point
-    
-    PostgresSQL
-    
-    Tableau
-    
+
+    •	PostgresSQL
+
+    •	Tableau
+
    
  ### Needs of this project
  
