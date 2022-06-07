@@ -57,7 +57,7 @@
 
 ### Data Schema
  
-  ![image](https://user-images.githubusercontent.com/96215773/170896938-7f493290-acdb-4bb0-9956-c2412409db0d.png)
+![image](https://user-images.githubusercontent.com/96215773/172488268-fcde4898-84a2-420c-b2e9-beb773953d32.png)
 
 ### Tables
 
