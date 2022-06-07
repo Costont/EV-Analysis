@@ -52,7 +52,7 @@
   
     Linar regression electric vehices vs charging stations
     
-    ![image](https://user-images.githubusercontent.com/96215773/172474888-a59bb47f-7125-4025-ba16-5015861e9798.png)
+![image](https://user-images.githubusercontent.com/96215773/172475070-fe3f5fa5-a079-4e9c-8e5e-14da1ab32def.png)
 
 
 ### Data Schema
