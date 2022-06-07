@@ -50,7 +50,7 @@
     
 ### Machine
   
-   Utilize the Linear Regression. Fit, and Predict model with a 70/30 split of the data for train and test yielding an 88 percent accuracy.
+  Utilize the Linear Regression. Fit, and Predict model with a 70/30 split of the data for train and test yielding an 88 percent accuracy from the model.
     
 ![image](https://user-images.githubusercontent.com/96215773/172475070-fe3f5fa5-a079-4e9c-8e5e-14da1ab32def.png)
 
