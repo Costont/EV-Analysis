@@ -9,6 +9,9 @@
 
   Counties with more EV charging stations have more EV vehicles registered. It can be assumed that there are more EV purchases in those counties.
   
+ ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
+
+  
 ### Overview
   
   Electric vehicle charge station infrastructure is key to the ZEV program’s success.
