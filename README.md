@@ -14,10 +14,9 @@
   Electric vehicle charge station infrastructure is key to the ZEV program’s success.
   
     •	EV Charging Station ratios 
-    •	How many miles do you have to drive to a charge station?
     •	The ratio of charging stations to electric vehicles for the top 5 counties is .003 or higher                  
-    •	EV charge stations by county
-    •	Number of EV cars by county
+    •	EV charge stations by county. Refer To Figure below or Dashboard
+    •	Number of EV cars by county. Refer To Figure below or Dashboard
 
 ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
 
