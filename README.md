@@ -16,9 +16,9 @@
   
   Electric vehicle charge station infrastructure is key to the ZEV program’s success.
   
-•	EV Charging Station ratios 
-•	How many miles do you have to drive to a charge station?
-•	The ratio of charging stations to electric vehicles for the top 5 counties is .003 or higher.
+    •	EV Charging Station ratios 
+    •	How many miles do you have to drive to a charge station?
+    •	The ratio of charging stations to electric vehicles for the top 5 counties is .003 or higher.
 
     Los Angles 
     Santa Clara
@@ -26,8 +26,9 @@
     San Diego
     Alameda
     
-•	EV charge stations by county
-•	Number of EV cars by county
+    •	EV charge stations by county
+    •	Number of EV cars by county
+
     
 ![image](https://user-images.githubusercontent.com/96215773/172456500-e0aa4cf2-c948-4243-9d66-82e47937004f.png)
 
