@@ -1,7 +1,6 @@
 # EV Analysis
 
-
-![image](https://user-images.githubusercontent.com/96215773/172315088-079063a1-016f-4533-812c-e861d68f24aa.png)
+![image](https://user-images.githubusercontent.com/96215773/172333250-32e4c89d-7fdc-4d8d-9ee4-64bb7113acbe.png)
 
 [Click Here To See DashBaord](https://public.tableau.com/shared/9FPZ8QC7M?:display_count=n&:origin=viz_share_link)
 
