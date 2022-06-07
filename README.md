@@ -59,7 +59,7 @@
     
 ![image](https://user-images.githubusercontent.com/96215773/172475070-fe3f5fa5-a079-4e9c-8e5e-14da1ab32def.png)
 
-### Data Sets
+### Data Resources
 
   - DATA.GOV
   - U.S. Department of Energy
