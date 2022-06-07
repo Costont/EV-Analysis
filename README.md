@@ -23,46 +23,29 @@
 
 ### Methods Used
 
-    •	Inferential Statistics
-
     •	Machine Learning
-
     •	Data Visualization
-
     •	Predictive Modeling
-
-    •	etc.
-
+     
 ### Technologies
 
     •	Python
-
     •	Jupyter Notebook
-
     •	Pandas
-
-    •	HTML
-
     •	JavaScript
-
     •	Power Point
-
     •	PostgresSQL
-
     •	Tableau
 
    
  ### Needs of this project
  
     •	frontend developers
-
     •	data exploration/descriptive statistics
-
     •	data processing/cleaning
-
     •	statistical modeling
-
     •	writeup/reporting
+
     
 ### Machine
   
