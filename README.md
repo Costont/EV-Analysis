@@ -50,7 +50,7 @@
     
 ### Machine
   
-    Linar regression electric vehices vs charging stations
+    Utilize the Linear Regression and fit model with a 70/30 split of the data for train and test yielding a 88 percent accuracy.
     
 ![image](https://user-images.githubusercontent.com/96215773/172475070-fe3f5fa5-a079-4e9c-8e5e-14da1ab32def.png)
 
