@@ -46,6 +46,11 @@ https://public.tableau.com/views/EVAnalysis_16540699720880/Dashboard1?:language=
     •	JavaScript
 
     •	Power Point
+    
+    PostgresSQL
+    
+    Tableau
+    
    
  ### Needs of this project
  
