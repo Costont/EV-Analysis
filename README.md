@@ -15,7 +15,7 @@
   
     •	EV Charging Station ratios 
     •	The ratio of charging stations to electric vehicles for the top 5 counties is .003 or higher                  
-    •	EV charge stations by county. Refer To the Figure below or Dashboard
+    •	EV charge stations by county. _Refer To the Figure below or Dashboard_
     •	Number of EV cars by county. Refer To the Figure below or Dashboard
 
 ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
