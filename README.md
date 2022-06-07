@@ -19,6 +19,8 @@
     •	EV charge stations by county
     •	Number of EV cars by county
 
+![image](https://user-images.githubusercontent.com/96215773/172454897-02c79cab-a30b-4252-94e9-3f7621b914b4.png)
+
 ### Methods Used
 
     •	Inferential Statistics
