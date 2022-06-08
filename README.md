@@ -31,12 +31,18 @@ To be able to achieve a fully electric future and keep up with the demand for ch
 
 ### Forecasts
 
+![image](https://user-images.githubusercontent.com/96215773/172678596-20fedac3-486b-4846-bd29-695802dfcf77.png)
+
 Time series:	Year
+
 Measures:	Sum of Electric Vehicles
 
 Forecast forward:	10 periods (2020 - 2029)
+
 Forecast based on:	2010 - 2019
+
 Ignore last:	No periods ignored
+
 Seasonal pattern:	None 
 
 Sum of Electric Vehicles 
