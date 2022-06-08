@@ -4,17 +4,18 @@
 <img src="https://user-images.githubusercontent.com/96215773/172710964-dd6f99dd-7af6-4131-b636-88d6ca7cf153.png"  alt="test">
 </p>
 
+## Summary
+
+  California’s proposed ZEV program rule puts into motion an executive order that Gov. Gavin Newsom issued in 2020. Under the plan, 35 percent of new cars and light trucks sold must be zero-emissions starting in 2026. That will increase to 68 percent in 2030, and to 100 percent in 2035. The plan allows for 20 percent of new sales to be plug-in hybrids. Can these goals be met with California’s current charging station infrastructure? 
+
+ Counties with more EV charging stations have more EV vehicles registered. It can be assumed that there are more EV purchases in those counties. Assuming that these higher numbers are due to the availability of charging stations in that county, making consumers more comfortable with purchasing an EV.
+
 
 ![image](https://user-images.githubusercontent.com/96215773/172686251-68edba32-a049-4762-aa13-5a984c16e746.png)
 
 
 [***Click Here To See DashBaord***](https://public.tableau.com/shared/9FPZ8QC7M?:display_count=n&:origin=viz_share_link)
 
-## Summary
-
-  California’s proposed ZEV program rule puts into motion an executive order that Gov. Gavin Newsom issued in 2020. Under the plan, 35 percent of new cars and light trucks sold must be zero-emissions starting in 2026. That will increase to 68 percent in 2030, and to 100 percent in 2035. The plan allows for 20 percent of new sales to be plug-in hybrids. Can these goals be met with California’s current charging station infrastructure? 
-
- Counties with more EV charging stations have more EV vehicles registered. It can be assumed that there are more EV purchases in those counties. Assuming that these higher numbers are due to the availability of charging stations in that county, making consumers more comfortable with purchasing an EV.
 
 ## Business Case
 
