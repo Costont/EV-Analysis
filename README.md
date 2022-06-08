@@ -29,6 +29,23 @@ To be able to achieve a fully electric future and keep up with the demand for ch
 
 ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
 
+### Forecasts
+
+Time series:	Year
+Measures:	Sum of Electric Vehicles
+
+Forecast forward:	10 periods (2020 - 2029)
+Forecast based on:	2010 - 2019
+Ignore last:	No periods ignored
+Seasonal pattern:	None 
+
+Sum of Electric Vehicles 
+
+Initial				    Change From Initial		Seasonal Effect				Contribution			
+2020				      2020 - 2029		        High		Low			    Trend	    Season		Quality
+629,492	±	19.9%		  153.0%		               None					  100.0%	  0.0%		  Poor
+
+
 ### Recommindations
   
   To reach the propose ZEV program goals would require increasing the number of public charging stations. 
