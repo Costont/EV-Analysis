@@ -11,6 +11,12 @@
 
  Counties with more EV charging stations have more EV vehicles registered. It can be assumed that there are more EV purchases in those counties. Assuming that these higher numbers are due to the availability of charging stations in that county, making consumers more comfortable with purchasing an EV.
 
+## Business Case
+
+
+$6.1 Billion for Zero‑Emission Vehicle (ZEV)‑Related Activities. The Governor proposes a total of $6.1 billion from various fund sources over five years for a package of proposals related to ZEVs.
+
+To be able to achieve a fully electric future and keep up with the demand for chargers, the charging infrastructure has to be expanded. Therefore, the California is planning to spend $8 million on charging infrastructure projects between July 1st, 2021 and June 30, 2023². This is a great business opportunity for EV charging companies. By investing in Calfornia state, not only would these companies be eligible for government funding, but they would also put themselves in a profitable position as the demand for chargers continues to increase over the coming years.
   
 ### Overview
   
