@@ -1,0 +1,59 @@
+stations,county,geoid
+3193,Los Angeles,06037
+1546,Santa Clara,06085
+1531,Orange,06059
+1295,San Mateo,06081
+1010,San Diego,06073
+765,Alameda,06001
+490,Riverside,06065
+409,San Francisco,06075
+384,Sacramento,06067
+351,San Bernardino,06071
+329,Fresno,06019
+298,Contra Costa,06013
+204,Sonoma,06097
+201,Ventura,06111
+164,San Luis Obispo,06079
+164,Marin,06041
+147,Santa Barbara,06083
+138,Placer,06061
+135,Solano,06095
+124,Napa,06055
+122,Kern,06029
+122,Monterey,06053
+108,Santa Cruz,06087
+95,San Joaquin,06077
+84,Yolo,06113
+69,El Dorado,06017
+63,Mendocino,06045
+62,Humboldt,06023
+43,Nevada,06057
+40,Stanislaus,06099
+37,Tulare,06107
+37,Madera,06039
+31,Butte,06007
+26,Merced,06047
+24,Kings,06031
+22,Shasta,06089
+20,Tuolumne,06109
+19,Siskiyou,06093
+19,Mariposa,06043
+13,San Benito,06069
+12,Del Norte,06015
+12,Amador,06005
+11,Tehama,06103
+9,Inyo,06027
+8,Mono,06051
+7,Colusa,06011
+7,Lake,06033
+6,Yuba,06115
+6,Imperial,06025
+6,Lassen,06035
+5,Calaveras,06009
+4,Sutter,06101
+4,Trinity,06105
+4,Alpine,06003
+3,Glenn,06021
+3,Plumas,06063
+3,Modoc,06049
+1,Sierra,06091

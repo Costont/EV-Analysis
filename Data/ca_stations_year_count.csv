@@ -1,0 +1,507 @@
+stations,county,oyear,geoid
+1324,Los Angeles,2021,06037
+1047,Santa Clara,2021,06085
+929,Los Angeles,2020,06037
+898,Orange,2021,06059
+880,San Mateo,2021,06081
+450,San Diego,2021,06073
+432,Alameda,2021,06001
+375,Orange,2020,06059
+356,Los Angeles,2022,06037
+300,Santa Clara,2020,06085
+244,San Francisco,2021,06075
+236,San Diego,2020,06073
+235,San Mateo,2020,06081
+213,Sacramento,2021,06067
+199,Riverside,2021,06065
+184,San Bernardino,2021,06071
+183,Fresno,2021,06019
+182,Alameda,2020,06001
+167,Los Angeles,2018,06037
+166,San Diego,2022,06073
+163,Contra Costa,2021,06013
+149,Los Angeles,2019,06037
+130,Riverside,2020,06065
+125,Orange,2022,06059
+88,Contra Costa,2020,06013
+85,Marin,2021,06041
+79,San Mateo,2022,06081
+77,San Bernardino,2020,06071
+75,Solano,2021,06095
+75,San Francisco,2020,06075
+73,Alameda,2022,06001
+70,Sonoma,2021,06097
+70,Kern,2021,06029
+68,Sacramento,2020,06067
+65,Placer,2021,06061
+65,Santa Clara,2022,06085
+61,Sonoma,2020,06097
+59,Ventura,2020,06111
+58,Ventura,2021,06111
+57,Los Angeles,2015,06037
+55,Fresno,2020,06019
+54,Santa Barbara,2021,06083
+52,Marin,2020,06041
+49,Los Angeles,2016,06037
+47,Sacramento,2022,06067
+45,Santa Cruz,2021,06087
+43,Monterey,2021,06053
+42,Los Angeles,2014,06037
+41,Fresno,2022,06019
+41,San Luis Obispo,2021,06079
+38,Riverside,2022,06065
+37,Orange,2019,06059
+37,Santa Cruz,2020,06087
+36,Los Angeles,2017,06037
+35,Santa Clara,2018,06085
+35,Riverside,2019,06065
+34,Monterey,2020,06053
+34,Ventura,2019,06111
+33,Santa Clara,2019,06085
+33,San Bernardino,2022,06071
+33,Napa,2020,06055
+33,Yolo,2021,06113
+30,Santa Barbara,2020,06083
+29,San Francisco,2022,06075
+29,Humboldt,2021,06023
+29,Santa Clara,2017,06085
+28,Napa,2021,06055
+28,San Joaquin,2021,06077
+28,San Luis Obispo,2020,06079
+27,San Diego,2015,06073
+27,San Diego,2019,06073
+26,San Diego,2016,06073
+26,Los Angeles,2013,06037
+26,San Mateo,2019,06081
+25,Placer,2020,06061
+25,San Luis Obispo,2016,06079
+24,Kern,2020,06029
+24,Placer,2022,06061
+23,San Luis Obispo,2015,06079
+22,Orange,2018,06059
+22,San Joaquin,2020,06077
+21,Alameda,2019,06001
+21,Riverside,2013,06065
+21,Orange,2016,06059
+20,San Joaquin,2022,06077
+20,Nevada,2021,06057
+20,Fresno,2017,06019
+19,Alameda,2018,06001
+19,Santa Barbara,2022,06083
+18,San Diego,2018,06073
+18,Napa,2016,06055
+17,Fresno,2019,06019
+17,San Mateo,2018,06081
+17,San Diego,2017,06073
+17,Napa,2015,06055
+16,San Mateo,2015,06081
+16,Riverside,2015,06065
+16,Los Angeles,2011,06037
+16,Ventura,2022,06111
+16,Contra Costa,2019,06013
+16,Los Angeles,2012,06037
+16,Sonoma,2019,06097
+15,Riverside,2018,06065
+15,Sonoma,2017,06097
+15,San Diego,2012,06073
+15,El Dorado,2021,06017
+15,Stanislaus,2021,06099
+15,Orange,2015,06059
+15,Solano,2020,06095
+15,Madera,2021,06039
+14,Mendocino,2021,06045
+14,Orange,2017,06059
+14,San Luis Obispo,2018,06079
+14,Santa Clara,2016,06085
+13,Alameda,2016,06001
+13,El Dorado,2020,06017
+13,Yolo,2020,06113
+13,Humboldt,2020,06023
+13,El Dorado,2022,06017
+13,Sonoma,2015,06097
+13,Sacramento,2019,06067
+13,Sonoma,2016,06097
+12,San Mateo,2017,06081
+12,Kern,2022,06029
+12,San Francisco,2019,06075
+12,Mendocino,2020,06045
+11,Butte,2021,06007
+11,Yolo,2008,06113
+11,Tulare,2022,06107
+11,San Mateo,2016,06081
+11,Mendocino,2019,06045
+11,Siskiyou,2021,06093
+11,Tulare,2020,06107
+10,Riverside,2011,06065
+10,Riverside,2016,06065
+10,Madera,2020,06039
+10,Monterey,2018,06053
+10,San Francisco,2015,06075
+10,Santa Barbara,2013,06083
+10,Tuolumne,2021,06109
+10,Monterey,2015,06053
+9,San Diego,2011,06073
+9,San Bernardino,2012,06071
+9,Napa,2017,06055
+9,San Francisco,2018,06075
+9,Tulare,2021,06107
+9,San Diego,2014,06073
+9,Mariposa,2022,06043
+9,Merced,2021,06047
+9,San Luis Obispo,2022,06079
+9,Marin,2022,06041
+9,Santa Cruz,2022,06087
+9,Monterey,2022,06053
+9,San Francisco,2016,06075
+9,Solano,2022,06095
+9,Yolo,2015,06113
+9,Sacramento,2013,06067
+9,Santa Barbara,2015,06083
+8,Stanislaus,2020,06099
+8,Shasta,2022,06089
+8,Contra Costa,2022,06013
+8,Kings,2020,06031
+8,Orange,2011,06059
+8,Los Angeles,1998,06037
+8,Solano,2019,06095
+8,Riverside,2017,06065
+8,Los Angeles,2002,06037
+8,Contra Costa,2018,06013
+8,San Bernardino,2016,06071
+8,San Diego,2013,06073
+8,San Bernardino,2019,06071
+7,Merced,2020,06047
+7,San Bernardino,2017,06071
+7,Napa,2022,06055
+7,Napa,2018,06055
+7,El Dorado,2019,06017
+7,Contra Costa,2017,06013
+7,Ventura,2015,06111
+7,San Bernardino,2018,06071
+6,Mendocino,2016,06045
+6,San Benito,2021,06069
+6,El Dorado,2015,06017
+6,San Mateo,2014,06081
+6,Nevada,2019,06057
+6,Sacramento,2016,06067
+6,Tehama,2021,06103
+6,Alameda,2012,06001
+6,Orange,2013,06059
+6,Humboldt,2016,06023
+6,Santa Clara,2013,06085
+6,Del Norte,2021,06015
+6,Shasta,2021,06089
+6,San Bernardino,2015,06071
+6,Kings,2021,06031
+6,Mendocino,2015,06045
+6,Butte,2022,06007
+6,San Francisco,2017,06075
+6,Solano,2004,06095
+6,Santa Clara,2015,06085
+5,Sacramento,2018,06067
+5,Kings,2017,06031
+5,Alameda,2017,06001
+5,Madera,2022,06039
+5,San Bernardino,2013,06071
+5,San Joaquin,2016,06077
+5,Ventura,2013,06111
+5,Ventura,2002,06111
+5,Alameda,2015,06001
+5,Santa Cruz,2019,06087
+5,San Luis Obispo,2019,06079
+5,San Joaquin,2019,06077
+5,Merced,2019,06047
+5,Butte,2020,06007
+5,Santa Barbara,2016,06083
+5,Sonoma,2018,06097
+5,San Francisco,2014,06075
+5,Alameda,2013,06001
+5,Nevada,2020,06057
+5,Orange,2012,06059
+5,Los Angeles,1997,06037
+5,Solano,2016,06095
+5,Stanislaus,2018,06099
+5,San Luis Obispo,2017,06079
+5,San Bernardino,2011,06071
+5,Santa Barbara,2019,06083
+5,Sacramento,2017,06067
+5,Sonoma,2022,06097
+5,Kern,2016,06029
+5,Sacramento,2012,06067
+5,Placer,2019,06061
+5,San Joaquin,2013,06077
+4,Shasta,2020,06089
+4,Mono,2015,06051
+4,San Luis Obispo,2013,06079
+4,San Benito,2020,06069
+4,Santa Clara,2011,06085
+4,Mariposa,2021,06043
+4,El Dorado,2016,06017
+4,Monterey,2016,06053
+4,El Dorado,2018,06017
+4,Nevada,2015,06057
+4,Santa Clara,2012,06085
+4,Santa Barbara,2018,06083
+4,Stanislaus,2015,06099
+4,Riverside,2012,06065
+4,Marin,2015,06041
+4,Amador,2017,06005
+4,Kern,2019,06029
+4,Sacramento,2011,06067
+4,Santa Cruz,2018,06087
+4,Santa Barbara,2017,06083
+4,Ventura,2017,06111
+4,Amador,2020,06005
+4,San Mateo,2012,06081
+4,San Joaquin,2015,06077
+4,Placer,2013,06061
+4,Fresno,2016,06019
+4,San Mateo,2011,06081
+4,Siskiyou,2020,06093
+4,Butte,2019,06007
+3,Siskiyou,2018,06093
+3,Contra Costa,2011,06013
+3,San Francisco,2002,06075
+3,San Luis Obispo,2014,06079
+3,Mendocino,2017,06045
+3,Placer,2014,06061
+3,Mendocino,2022,06045
+3,Placer,2015,06061
+3,San Luis Obispo,2000,06079
+3,San Mateo,2002,06081
+3,Yolo,2022,06113
+3,Humboldt,2014,06023
+3,Colusa,2021,06011
+3,Colusa,2019,06011
+3,Sonoma,2012,06097
+3,Yuba,2021,06115
+3,Monterey,2019,06053
+3,Sacramento,2015,06067
+3,Del Norte,2020,06015
+3,Fresno,2018,06019
+3,Alameda,2011,06001
+3,Inyo,2020,06027
+3,Monterey,2017,06053
+3,Napa,2019,06055
+3,Madera,2015,06039
+3,Imperial,2022,06025
+3,Solano,2005,06095
+3,Sacramento,2004,06067
+3,Yolo,2019,06113
+3,Inyo,2021,06027
+3,Ventura,2014,06111
+3,Marin,2016,06041
+3,Solano,2012,06095
+3,San Luis Obispo,2012,06079
+3,Marin,2013,06041
+3,Ventura,2012,06111
+3,Yuba,2020,06115
+3,Orange,2014,06059
+3,Santa Clara,2014,06085
+3,San Francisco,2012,06075
+3,Solano,2013,06095
+2,Monterey,2012,06053
+2,Humboldt,2015,06023
+2,Yolo,2013,06113
+2,El Dorado,2004,06017
+2,El Dorado,2012,06017
+2,Tulare,2016,06107
+2,Humboldt,2022,06023
+2,Fresno,2015,06019
+2,Nevada,2017,06057
+2,Amador,2014,06005
+2,Kern,2015,06029
+2,Riverside,2014,06065
+2,Santa Barbara,2014,06083
+2,Ventura,2016,06111
+2,Tuolumne,2015,06109
+2,Stanislaus,2016,06099
+2,Marin,2017,06041
+2,Stanislaus,2017,06099
+2,Mendocino,2014,06045
+2,Nevada,2013,06057
+2,Marin,2019,06041
+2,Tulare,2019,06107
+2,Santa Barbara,2012,06083
+2,Placer,2011,06061
+2,San Francisco,2011,06075
+2,Sutter,2021,06101
+2,Yolo,2012,06113
+2,Contra Costa,2016,06013
+2,Tuolumne,2017,06109
+2,Santa Cruz,2017,06087
+2,Tuolumne,2020,06109
+2,Alpine,2022,06003
+2,Sonoma,2011,06097
+2,Humboldt,2018,06023
+2,Calaveras,2015,06009
+2,Imperial,2020,06025
+2,Mariposa,2015,06043
+2,Sacramento,2014,06067
+2,Los Angeles,2010,06037
+2,Placer,2012,06061
+2,Ventura,2018,06111
+2,Yolo,2014,06113
+2,Lassen,2022,06035
+2,Solano,2011,06095
+2,Humboldt,2013,06023
+2,Monterey,2011,06053
+2,Madera,2018,06039
+2,Placer,2016,06061
+2,Mono,2016,06051
+2,Shasta,2015,06089
+2,Glenn,2021,06021
+2,Inyo,2018,06027
+2,Solano,2017,06095
+2,El Dorado,2017,06017
+2,Stanislaus,2019,06099
+2,Lake,2020,06033
+2,Fresno,2011,06019
+2,Orange,2002,06059
+2,Yolo,2016,06113
+2,Santa Barbara,2011,06083
+2,Santa Cruz,2015,06087
+2,Tuolumne,2016,06109
+2,San Joaquin,2011,06077
+2,Kings,2018,06031
+2,Tehama,2022,06103
+2,Mendocino,2011,06045
+2,Butte,2017,06007
+2,San Joaquin,2017,06077
+2,Ventura,2011,06111
+1,Tuolumne,2022,06109
+1,Nevada,2014,06057
+1,Lassen,2020,06035
+1,Butte,2014,06007
+1,Amador,2016,06005
+1,Marin,2009,06041
+1,Santa Cruz,2014,06087
+1,Tulare,2015,06107
+1,Los Angeles,1996,06037
+1,Humboldt,2012,06023
+1,Merced,2014,06047
+1,Fresno,2014,06019
+1,Lassen,2021,06035
+1,Trinity,2020,06105
+1,Del Norte,2016,06015
+1,Madera,2019,06039
+1,Plumas,2019,06063
+1,Los Angeles,1995,06037
+1,Modoc,2018,06049
+1,San Diego,2006,06073
+1,San Joaquin,2018,06077
+1,Mariposa,2016,06043
+1,Calaveras,2022,06009
+1,Alameda,2014,06001
+1,San Francisco,2013,06075
+1,Trinity,2022,06105
+1,Stanislaus,2022,06099
+1,Lake,2015,06033
+1,Kern,2011,06029
+1,Ventura,1998,06111
+1,Glenn,2020,06021
+1,Madera,2016,06039
+1,Lassen,2016,06035
+1,Yolo,2011,06113
+1,Napa,2012,06055
+1,Lake,2017,06033
+1,Modoc,2016,06049
+1,Stanislaus,2011,06099
+1,Merced,2015,06047
+1,San Mateo,2013,06081
+1,San Luis Obispo,2011,06079
+1,Solano,2006,06095
+1,Sierra,2015,06091
+1,Mono,2019,06051
+1,San Benito,2013,06069
+1,El Dorado,2014,06017
+1,Shasta,2019,06089
+1,Yolo,2004,06113
+1,San Benito,2014,06069
+1,Amador,2010,06005
+1,Kern,2013,06029
+1,San Joaquin,2012,06077
+1,Merced,2011,06047
+1,Kings,2019,06031
+1,Contra Costa,2015,06013
+1,Riverside,1998,06065
+1,Merced,2017,06047
+1,Contra Costa,2013,06013
+1,Solano,2008,06095
+1,Sutter,2019,06101
+1,Solano,2018,06095
+1,Placer,1998,06061
+1,Placer,2017,06061
+1,Calaveras,2016,06009
+1,Nevada,2008,06057
+1,Sacramento,1998,06067
+1,Trinity,2017,06105
+1,Alpine,2020,06003
+1,Tulare,2011,06107
+1,Kings,2022,06031
+1,Kings,2015,06031
+1,Mendocino,2008,06045
+1,Contra Costa,2014,06013
+1,Nevada,2022,06057
+1,Santa Cruz,2012,06087
+1,Del Norte,2019,06015
+1,Sutter,2020,06101
+1,Humboldt,2019,06023
+1,Placer,2008,06061
+1,Kern,2017,06029
+1,Kern,2018,06029
+1,Lake,2021,06033
+1,Colusa,2014,06011
+1,Butte,2016,06007
+1,Modoc,2021,06049
+1,Lake,2022,06033
+1,San Benito,2018,06069
+1,Plumas,2022,06063
+1,Mendocino,2013,06045
+1,Monterey,2014,06053
+1,Mono,2018,06051
+1,Sonoma,2014,06097
+1,San Mateo,1998,06081
+1,Kern,2014,06029
+1,Los Angeles,1999,06037
+1,Alpine,2017,06003
+1,Tuolumne,2014,06109
+1,Del Norte,2018,06015
+1,San Francisco,1998,06075
+1,Tehama,2015,06103
+1,Mariposa,2017,06043
+1,Santa Cruz,2016,06087
+1,Lassen,2018,06035
+1,Tehama,2013,06103
+1,Trinity,2021,06105
+1,San Bernardino,1998,06071
+1,Inyo,2015,06027
+1,Lake,2016,06033
+1,Fresno,2013,06019
+1,Napa,2011,06055
+1,Riverside,1997,06065
+1,Santa Cruz,1998,06087
+1,Marin,2014,06041
+1,Mendocino,2010,06045
+1,Humboldt,2011,06023
+1,Siskiyou,2019,06093
+1,Mariposa,2019,06043
+1,Butte,2011,06007
+1,Solano,2009,06095
+1,Yolo,2017,06113
+1,San Bernardino,2014,06071
+1,San Diego,1997,06073
+1,Marin,2008,06041
+1,Calaveras,2021,06009
+1,Mariposa,2012,06043
+1,Tehama,2019,06103
+1,Santa Barbara,,06083
+1,Shasta,2011,06089
+1,Merced,2018,06047
+1,Imperial,2015,06025
+1,Nevada,2016,06057
+1,Plumas,2020,06063
+1,Marin,2018,06041
+1,Yolo,2018,06113
+1,Monterey,2013,06053
+1,Mendocino,2018,06045
