@@ -52,9 +52,9 @@ To be able to achieve a fully electric future and keep up with the demand for ch
 
         - 2020 - 2029: 153% Increase
 
-### Recommindations
+### Recommendations
   
-  To reach the propose ZEV program goals would require increasing the number of public charging stations. 
+  To reach the propose ZEV program goals would require increasing the number of public charging stations in every county.  
   
 ### Methods Use
 
