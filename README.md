@@ -34,24 +34,23 @@ To be able to achieve a fully electric future and keep up with the demand for ch
 
 ![image](https://user-images.githubusercontent.com/96215773/172678596-20fedac3-486b-4846-bd29-695802dfcf77.png)
 
-Time series:	Year
+        - Time series:	Year
 
-Measures:	Sum of Electric Vehicles
+        - Measures:	Sum of Electric Vehicles
 
-Forecast forward:	10 periods (2020 - 2029)
+        - Forecast forward:	10 periods (2020 - 2029)
 
-Forecast based on:	2010 - 2019
+        - Forecast based on:	2010 - 2019
 
-Ignore last:	No periods ignored
+        - Ignore last:	No periods ignored
 
-Seasonal pattern:	None 
+        - Seasonal pattern:	None 
 
-Sum of Electric Vehicles 
+        - Sum of Electric Vehicles 
 
-Initial				    Change From Initial		Seasonal Effect				Contribution			
-2020				      2020 - 2029		        High		Low			    Trend	    Season		Quality
-629,492	±	19.9%		  153.0%		               None					  100.0%	  0.0%		  Poor
+        - Initial	2020:	629,492	±	19.9%		
 
+        - 2020 - 2029: 153% Increase
 
 ### Recommindations
   
