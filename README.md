@@ -16,7 +16,7 @@ To be able to achieve a fully electric future and keep up with the demand for ch
 
 ### Results
   
-  Electric vehicle charge station infrastructure is key to the ZEV program’s success.
+  The electric vehicle charging station infrastructure is key to the ZEV program’s success.
   
   - EV Charging Station ratios 
   -	The ratio of charging stations to electric vehicles for the top 5 counties is .003 or higher                  
