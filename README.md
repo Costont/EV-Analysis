@@ -13,6 +13,7 @@
 $6.1 Billion for Zero‑Emission Vehicle (ZEV)‑Related Activities. The Governor proposes a total of $6.1 billion from various fund sources over five years for a package of proposals related to ZEVs.
 
 To be able to achieve a fully electric future and keep up with the demand for chargers, the charging infrastructure has to be expanded. Therefore, the California is planning to spend $600 million on charging infrastructure projects between July 1st, 2021 and June 30, 2026. This is a great business opportunity for EV charging companies. By investing in Calfornia state, not only would these companies be eligible for government funding, but they would also put themselves in a profitable position as the demand for chargers continues to increase over the coming years.
+
 ![image](https://user-images.githubusercontent.com/96215773/172686251-68edba32-a049-4762-aa13-5a984c16e746.png)
 
 [***Click Here To See DashBaord***](https://public.tableau.com/shared/9FPZ8QC7M?:display_count=n&:origin=viz_share_link)
