@@ -57,7 +57,7 @@ To be able to achieve a fully electric future and keep up with the demand for ch
 
 ### Recommendations
   
-  To reach the propose ZEV program goals would require increasing the number of public charging stations in every county.  
+  To reach the proposed ZEV program goals would require increasing the number of public charging stations in every county.  
   
 ### Methods Use
 
