@@ -85,7 +85,7 @@ To be able to achieve a fully electric future and keep up with the demand for ch
   - writeup/reporting
 
     
-### Machine
+### Machine Learning
   
   Utilize the Linear Regression. Fit, and Predict model with a 70/30 split of the data for train and test yielding an **88** percent accuracy from the model.
     
