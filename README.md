@@ -29,7 +29,7 @@ To be able to achieve a fully electric future and keep up with the demand for ch
 
  Counties with more EV charging stations have more EV vehicles registered. It can be assumed that there are more EV purchases in those counties. Assuming that these higher numbers are due to the availability of charging stations in that county, making consumers more comfortable with purchasing an EV.
 
-![image](https://user-images.githubusercontent.com/96215773/172737673-8cc7c03d-d2a4-486a-a1e0-dedfcb257a8f.png)
+![image](https://user-images.githubusercontent.com/96215773/172737921-7d7bcc44-db65-40e0-b491-1709afd87c56.png)
 
 ![image](https://user-images.githubusercontent.com/96215773/172464865-72ecbb22-dbe8-4a45-8691-c68c307acf5c.png)
 
