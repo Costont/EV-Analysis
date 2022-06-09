@@ -6,7 +6,7 @@
 
 ## Summary
 
-  California’s proposed ZEV program rule puts into motion an executive order that Gov. Gavin Newsom issued in 2020. Under the plan, 35 percent of new cars and light trucks sold must be zero-emissions starting in 2026. That will increase to 68 percent in 2030, and to 100 percent in 2035. The plan allows for 20 percent of new sales to be plug-in hybrids. Can these goals be achieved with the current charging station infrastructure? 
+  California’s proposed ZEV program rule puts into motion an executive order that Gov. Gavin Newsom issued in 2020. Under the plan, 35 percent of new cars and light trucks sold must be zero-emissions starting in 2026. That will increase to 68 percent in 2030, and to 100 percent in 2035. The plan allows for 20 percent of new sales to be plug-in hybrids. Can these goals be achieved with the current charging station infrastructure? **Also, can the Fear of the Plug-In view be changed with consumers?**
 
 ## Business Case
 
